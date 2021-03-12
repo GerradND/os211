@@ -8,6 +8,7 @@ Hello! I'm Gerrad Natanael
 ## Weekly Top 10 List
 
 * [Week 01](W01)
+* [Week 02](W02)
 
 [Github Repo]: https://github.com/GerradND/os211
 [Log]: https://raw.githubusercontent.com/GerradND/os211/master/TXT/mylog.txt
