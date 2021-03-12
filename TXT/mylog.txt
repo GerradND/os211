@@ -1,6 +1,8 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode https://osp4diss.vslm.org/ETC/logCodes.txt
+
+# Week 00
 ZCZC W00  60 L01 SCELE related
 ZCZC W00 170 L02 ZOOM related
 ZCZC W00  40 L03 GitHub related
@@ -8,10 +10,12 @@ ZCZC W00  30 L06 Reading Refereces/Books/Documents
 ZCZC W00  60 L22 YouTube: study, etc.
 ZCZC W00  80 L23 Discord: discussion, etc.
 ZCZC W00  80 L26 Movie: relax, etc.
+
+# Week 01
 ZCZC W01  60 L01 SCELE related
 ZCZC W01 170 L02 ZOOM related
 ZCZC W01  30 L03 GitHub related
-ZCZC W01  60 L05 GSGS
+ZCZC W01  80 L05 GSGS
 ZCZC W01  60 L06 Reading References/Book/Documents
 ZCZC W01  60 L22 YouTube: study, etc.
 ZCZC W01  60 L23 Discord: discussion, etc.
