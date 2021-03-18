@@ -4,3 +4,7 @@
 ZCZC W01 hanifaudah 
 ZCZC W01 gilangcy
 ZCZC W01 ghifariaulia
+ZCZC W02 hanifahreza
+ZCZC W02 haikalSusanto
+ZCZC W02 gilangcy
+ZCZC W02 hanifaudah
