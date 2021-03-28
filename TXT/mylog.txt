@@ -28,4 +28,12 @@ ZCZC W03 120 L05 GSGS
 ZCZC W03  50 L06 Reading References/Book/Documents
 ZCZC W03  80 L22 Youtube: study, etc.
 ZCZC W03  60 L23 Discord: discussion, etc.
-zczc w03  60 L26 Movie: relax, etc.
+ZCZC W03  60 L26 Movie: relax, etc.
+ZCZC W04  60 L01 SCELE related
+ZCZC W04 120 L02 ZOOM related
+ZCZC W04  60 L03 Github related
+ZCZC W04 140 L05 GSGS
+ZCZC W04  60 L22 Youtube: study, etc.
+ZCZC W04  60 L23 Discord: discussion, etc.
+ZCZC W04  60 L25 C-language: study, etc.
+ZCZC W04  60 L26 Movie: relax, etc.

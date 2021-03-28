@@ -9,7 +9,7 @@ Hello! I'm Gerrad Natanael
 * [**Week 01**](W01)
 * [**Week 02**](W02)
 * [**Week 03**](W03)
-
+* [**Week 04**](W04)
 [Github Repo]: https://github.com/GerradND/os211
 [Log]: https://raw.githubusercontent.com/GerradND/os211/master/TXT/mylog.txt
 [Rank]: https://raw.githubusercontent.com/GerradND/os211/master/TXT/myrank.txt
