@@ -10,6 +10,7 @@ Hello! I'm Gerrad Natanael
 * [**Week 02**](W02)
 * [**Week 03**](W03)
 * [**Week 04**](W04)
+* [**Week 05**](W05)
 
 [Github Repo]: https://github.com/GerradND/os211
 [Log]: https://raw.githubusercontent.com/GerradND/os211/master/TXT/mylog.txt
