@@ -44,3 +44,10 @@ ZCZC W05 130 L05 GSGS
 ZCZC W05  60 L22 Youtube: study, etc.
 ZCZC W05  50 L23 Discord: quiz
 ZCZC W05  70 L25 C-language: study, etc.
+ZCZC W06  60 L01 SCELE related
+ZCZC W06  70 L03 Github related
+ZCZC W06 140 L05 GSGS
+ZCZC W06  60 L06 Reading References/Books/Documents
+ZCZC W06  80 L22 Youtube study, etc.
+ZCZC W06  40 L23 Discord: discussion, etc.
+ZCZC W06  60 L25 C-language: study, etc.
