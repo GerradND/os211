@@ -59,3 +59,10 @@ ZCZC W07  30 L06 Reading Rferences/Books/Documents
 ZCZC W07  80 L22 Youtube: study, etc
 ZCZC W07  40 L23 Discord: discussion, etc
 ZCZC W07  10 L09 AsDos: Pengecekan W07
+ZCZC W08  80 L01 SCELE related
+ZCZC W08 140 L02 ZOOM related
+ZCZC W08  60 L03 Github related
+ZCZC W08 160 L05 GSGS
+ZCZC W08  90 L06 Reading Rferences/Books/Documents
+ZCZC W08  50 L22 Youtube: study, etc
+ZCZC W08  30 L23 Discord: discussion, etc
